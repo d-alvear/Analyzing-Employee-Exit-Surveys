@@ -1,5 +1,7 @@
 # Analyzing Employee Exit Surveys
 
+View the final notebook [here](https://nbviewer.jupyter.org/github/d-alvear/Analyzing-Employee-Exit-Surveys/blob/master/Part%202/V7_analyzing_employee_exit_surveys.ipynb), and the accompanying blog post [here](https://medium.com/@deandraalvear/analyzing-employee-exit-surveys-269d058bd762).
+
 ## Contents
 * `Part 1`: Initial data cleaning and exploration notebooks
 * `Part 2`: Final analyses and figures
